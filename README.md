@@ -4,3 +4,6 @@
 - Aufräumen
 - Serien/Filme schauen
 - Arbeiten im Homeoffice
+- Schlafen
+- Onlineschach
+- Zocken
