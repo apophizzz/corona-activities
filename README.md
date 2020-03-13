@@ -1,4 +1,5 @@
-# Anti-Langeweile-Aktivitäten in Zeiten von Corona
+# Anti-Langeweile-Aktivitäten in Zeiten von Corona 
+### (Pull Requests ausdrücklich erwünscht!)
 
 - Kochen
 - Aufräumen
