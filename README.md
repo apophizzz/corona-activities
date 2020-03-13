@@ -1,2 +1,6 @@
-# corona-activities
-A collection of activities you can still do when all public events are cancelled
+# Anti-Langeweile-Aktivitäten in Zeiten von Corona
+
+- Kochen
+- Aufräumen
+- Serien/Filme schauen
+- Arbeiten im Homeoffice
